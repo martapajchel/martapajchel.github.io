@@ -1,15 +1,13 @@
 html, body {
-  margin: 0;
-  background-color: #ccc; /* szare tło */
+  background-color: #c4c0b0; /* szare tło */
 }
 
 .canvas {
   width: 800px;
-  background-color: #fff;
+  background-color: #fffcf0;
   padding: 50px;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   box-sizing: border-box;
-  margin-block: 40px;
   margin: 40px auto;
 
 }
@@ -17,16 +15,6 @@ html, body {
 body {
   font-family: "Georgia", serif;
 }
-<!--
-body {
-  font-family: "Georgia", serif;
-  background-color: #fdfcf9;
-  color: #333;
-  line-height: 1.6;
-  margin: 0;
-  padding: 4rem;
-}
--->
 
 header {
   background-color: #eae7dc;
