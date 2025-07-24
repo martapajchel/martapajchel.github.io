@@ -1,3 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #ccc; /* szare tło */
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  font-family: "Georgia", serif;
+  width: 700px;
+  background-color: #fff; /* tło kanwasu */
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+<!--
 body {
   font-family: "Georgia", serif;
   background-color: #fdfcf9;
@@ -6,6 +24,7 @@ body {
   margin: 0;
   padding: 4rem;
 }
+-->
 
 header {
   background-color: #eae7dc;
