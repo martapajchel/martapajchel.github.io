@@ -1,3 +1,6 @@
+
+---
+
 1. Dzień dobry Panu, mówi Marta Pajchel    
 2. Gdzie pan jest?   
 3. Jak się nie żyje?   
@@ -6,7 +9,10 @@
 
 21 09 90
 
-\*wiersz napisany pod wpływem wiadomości o śmierci doktora Disnera  
+\*wiersz napisany pod wpływem wiadomości o śmierci doktora Disnera
+
+---
+
 Tęsknota za kimś jedynym.   
 Napisałeś Piotrek Brak ram \- brak wyjść.   
 Rany bierzesz za ramy.   
@@ -24,6 +30,9 @@ Chcę pobiegać z tobą po lesie
 Pogadać, ale nie wejść na pole szarości   
 Chcę wyjaśnienia, gdzie twoja druga strona   
 Gdzie szpara w drzwiach i Ogrom Całości  
+
+---
+
 PIOTR WIŚNIEWSKI
 
 Piotr W odpowiedział NIE \- TAK   
@@ -51,6 +60,8 @@ Ja zaczyna wątpić o my, które (pewne wy
 to oni,)  
 On potrafi odpowiedzieć Oni że ona.
 
+---
+
 Alergiczny nos
 
 Już patrzę na niego z boku   
@@ -74,6 +85,8 @@ Zapuszczę ci krople, odetchniesz trochę
 Lepiej wtedy śpię lub nie śpię też.   
 Tylko, draniu, nie powoduj bólu gardła,  
 bo smarcząc, rozerwę cię.
+
+---
 
 Ukrócisz moją niepamięć, ukróć pamięć   
 Zapamiętujesz żeby oddać mi prawie wszystko   
@@ -100,6 +113,8 @@ Jedna Ogromna łza
 Pan Nicość patrzy w szparze drzwiczek  
 Jeden Ogromny Żart.
 
+---
+
 Żabo zielona ma\!  
 Oto jak moment piętnaście prysło   
 Uśmiałaś się chociaż?  
@@ -110,6 +125,8 @@ Co z czym? Oto pytanie \-
 Jak fizyczne o windzie i śrubie   
 zadanie.
 
+---
+
 czy ciocia pisze wiersze?   
 czy pali jeszcze  
 czy gada dużo  
@@ -117,6 +134,8 @@ czy śmieje się i płacze
 pogadamy? pokłócimy się?  
 ja tak chcę\!  
 a może i nie?
+
+---
 
 Odwagi z miękkością   
 lenistwa z jakością  
@@ -126,6 +145,8 @@ Jednocześnie poprawi i pozwoli zakląć.
 Obudzi ale nie zmęczy  
 Słyszysz, Elka, coś jęczy, ale co to?   
 Chcę Twoich porad, są fantastyczne.
+
+---
 
 Pozwalają rechotać, i zwierzać się, myśleć   
 Śpiewać, wiosłować, piec ciasto,  
@@ -138,6 +159,8 @@ Lubię Twoje niebieskie oczy, bo błyszczą
 tak jak włosy się kręcą....  
 i Świat \!\!\!
 
+---
+
 Średni pies  
 dobry jest, uszy ma dwa   
 i oczy mu błyszczą,  
@@ -148,6 +171,8 @@ mówi i myśli
 każe, żąda, chce.  
 Nie rozważamy czy my  
 rozumieliśmy czy porozumiemy się.
+
+---
 
 Zagadki dla matki
 
@@ -169,6 +194,8 @@ nie może, a mężczyzna urodzi je wnet.
 A dla ciebie pytanko, ciekawe jak Żula nos   
 Którego wiersza Miłosza nie zrozumiałam?   
 Odpowiedz – 
+
+---
 
 Mamo\! posłuchaj\!  
 Napisałam Ci Wiersz. Zastanów się   
@@ -195,13 +222,15 @@ sama zaczynasz gęgać \- nie wiedząc o tym
 i gdzie… od wieków gęgam ja  
 i gdzie… nie porozumiemy się.
 
+---
+
 Rodzinny obiad
 
 Agresja, chłód, uśmiech przylepiony do pyska   
 Stół biało nakryty, a potrawy nienaganne   
 Niepokój i zmęczenie, ambicja i znudzenie.   
 W oku i włosach błyska.  
-––––  
+–––  
 Palec odstawiony, chichot wręcz niezbędny   
 Kręgosłup i dupa wdzięcznie wygięte.   
 Wody kolońskie i dezodoranty śmierdzą   
@@ -217,6 +246,8 @@ Do gościa żarciem przepełnionego.
 Czy pamiętasz co było na przystawkie?   
 Co było na zupkie?  
 Czy mogło być coś niedobrego?
+
+---
 
 Dla Hani i Jasia
 
@@ -243,6 +274,8 @@ Kiciusie moje, wy...
 robicie już to, wy... szalejcie, myślcie, i...  
 wykochajcie i wyjedzcie mój świat... mi.
 
+---
+
 Słyszałam, a nie, wpadło mi w ucho.   
 też nie, coś nudnego przeczytałam,   
 Przemyślałam  
@@ -268,6 +301,8 @@ tra la la.
 
 28 10 92 z myślą o 13 11\.
 
+---
+
 Żulu, gdzie Twoja buzia   
 oczy, ogon, spokój   
 wstałeś,  
@@ -278,6 +313,8 @@ rysować,
 jak uspokoić niepokój?
 
 18 12 92
+
+---
 
 … Wszystkich świętych
 
@@ -303,6 +340,8 @@ zamknij pysk… wołam ja.
 słuchaj lepiej ryku woła…   
 mówię ty… na ja\!
 
+---
+
 Żulu, ukochany .  
 Już kropka po zdaniu.  
 Jeszcze końca nie osiągnęłam, a ty  
@@ -324,6 +363,9 @@ myślisz, trwasz
 Ukochany\! Ja nie wiem gdzie   
 i jak?  
 1 03 93  
+
+---
+
 Żulu\!  
 Wlazłeś już w Kaję  
 Czy w tym moja małość   
@@ -336,6 +378,8 @@ Opowiem sobie o Tobie
 Sobie o Kai  
 Sobie o mnie.  
 1 03 93
+
+---
 
 Żulu mojego serca   
 szwędasz się?  
@@ -354,6 +398,8 @@ snu…
 znu…dzenia
 
 4 03 93
+
+---
 
 Ptaku Twojego serca   
 czego chcesz?  
@@ -377,6 +423,8 @@ w niebie
 
 (str. 113 Halina Poświatowska)
 
+---
+
 Kaja lizała tyłek   
 Ja ją rysowałam   
 ona się ruszała  
@@ -390,6 +438,8 @@ ogon, ucho i pysk \- razem siedem łap.
 
 23 03 93
 
+---
+
 Zimno jak się oparzę w palec   
 Cieplej jak palec w chłodzie  
 Upał w piekle za to   
@@ -400,6 +450,8 @@ Kiedy myślę o sobie.
 Diable\! Chcę spłonąć  
 lub zamarznąć z miłości.
 
+---
+
 Dawno \- mała, nieważna  
 Później \- wzorowa, grzeczna  
 Jeszcze później \- brzydka.  
@@ -409,11 +461,15 @@ Choroby, ambicje, trudy
 i znowu początek.  
 I znowu dawno...
 
+---
+
 Jeszcze nie wiem o czym   
 Jeszcze nie znam treści  
 Twojego życia  
 I mojej powieści.  
 27 06 93
+
+---
 
 Aura też uciekła  
 Też jej nie skończyłam  
@@ -426,6 +482,8 @@ Koluszki ugładzi.
 Sierpień' 93   
 Marianka
 
+---
+
 Tereny na siebie załażą   
 Czyj na czyj? \- pytam.   
 Mój na wasz\!  
@@ -433,6 +491,8 @@ Odpowiadam wam.
 
 sierpień' 93   
 w Mariance
+
+---
 
 Kaja się ruszyła   
 Już jej nie skończyłam   
@@ -442,12 +502,16 @@ W ruji czy już w ciąży?
 sierpień' 93   
 Marianka
 
+---
+
 Czyja twarz wyjrzała?   
 I po co? Wyszła   
 Nie udałeś mi się   
 Jako cud nad Wisłą
 
 8 09 93
+
+---
 
 ,,Nie żyję dłużej od Ciebie   
 niż jedenaście lat.  
@@ -470,6 +534,8 @@ O czym słyszałam?
 Przecież to nie ja o Tobie, Kaju, Haniu   
 śpiewałam...
 
+---
+
 Młody człowiek, który badał 
 
 Wiedział, jak się wysadza   
@@ -490,6 +556,8 @@ Znała to uczucie od czasów, gdy była
 mu  
 Gdy tak leżeli, to, co było zakryte, ...
 
+---
+
 Po lekcji francuskiego   
 Sen o lekcji angielskiego…   
 W pokoju Hani  
@@ -505,6 +573,9 @@ Pytam teraz...
 Czy tylko o metodę nauki   
 języka obcego...   
 pytałam?  
+
+---
+
 ZGŁUPIALI   
 MAĆ AUTOGRESJĘ ĆWICZY   
 CORAZ LEPIEJ  
@@ -513,6 +584,8 @@ PIEŚŃ UWIELBIENIA
 TALENT TO PRZECIE   
 OCZKO PRZYOSTRZONE   
 I MYŚLI SKUPIONE
+
+---
 
 Sprzeczności
 
@@ -530,6 +603,8 @@ pospaceruję
 i umrę.  
 Hę?
 
+---
+
 A nie  
 A nigdy  
 A żyję.  
@@ -541,6 +616,8 @@ bo nudy.
 Tchórz, leń, zgryzota.
 
 26 05 93
+
+---
 
 Hej, Jimmy, słyszysz   
 plusk wieloryba i  
@@ -574,6 +651,8 @@ od powierzchni jeziora,
 na Atlantyk powrócimy   
 my znów
 
+---
+
 Walczyki
 
 Rozmiary? Nie?  
@@ -584,7 +663,7 @@ Nie boję się miłości
 Ani rozpaczy\!  
 Ani śmierci.  
 Przecież wszystko... w końcu zobaczę…  
-\*  
+	\*  
 A ja nie wierzę\!  
 Dobrze mi z tym\!  
 pan nie plącze się z Panem,   
@@ -596,6 +675,8 @@ i chłód.
 bliskość ludzi  
 i odległość, samotność   
 miłości.
+
+---
 
 Coś błyszczy i lśni   
 nie pachnie,  
@@ -614,6 +695,8 @@ nie nienawidzieć\!
 bo ja...   
 nie.  
 albo chyba nie.
+
+---
 
 Sobie opowiadaj   
 nie innym, bo im straszno.   
@@ -638,6 +721,8 @@ Straszne\!
 
 3 11 93 (wisielec na spacerze z psem)
 
+---
+
 Mądry, Miły, tkliwy  
 Żywy, wolny, dobry   
 Rozsądny, szybki, brzydki  
@@ -649,6 +734,8 @@ lenistwo zwiększa
 rozsądku i tak nie było  
 słów brakowało
 
+---
+
 Głęboko w siebie,    
 trudno w innych.   
 Trudno głębiej   
@@ -656,6 +743,8 @@ rada: nie o sobie
 i nie o innych.   
 Malutki świat   
 pogłębić.
+
+---
 
 Film jest wstrząsający.   
 Piękne widoki na Bergen   
@@ -675,6 +764,8 @@ odległość.
 
 (11 93\)
 
+---
+
 Wybitny poeto,  
 nie rozumiem Cię.  
 Jeśli jestem tylko jedną z rzeczy wielu  
@@ -689,6 +780,8 @@ Szczeka piesek na księżyc makowy?
 Coraz więcej, cholera, przychodzi do głowy.   
 Musi? Czyżby nie?
 
+---
+
 Wy skubane  
 nie, słodkie  
 albo wyskubane  
@@ -701,6 +794,8 @@ Pracować dla swojej przyjemności
 Brać cały świat  
 z radością i prostotą  
 jak moja mać.
+
+---
 
 Wiersz na czterdzieste piąte   
 urodziny Baśki Chałasińskiej
@@ -726,6 +821,8 @@ Przebaczyć i kretyństwa, i świństwa
 Obśmiać się i popłakać, wyspać się, wysapać   
 I po swojemu poskakać\!
 
+---
+
 Wiersz na tytuł profesora   
 Grześka Chałasińskiego.
 
@@ -750,6 +847,8 @@ Bez dystansu nie będzie miary
 
 \*(str. 140 J. T.,,nie przyszedłem")
 
+---
+
 Chcę mieć prawo do ,,nie".  
 Literatura w “moim” języku, “moja” religia, “moje  
 świątynie" to już ograniczenie.  
@@ -764,6 +863,8 @@ swoją słabością i polubić sukę.
 Pogadam w piekle z Hitlerem, Stalinem i może   
 zobaczę jak siedzą i płaczą. Głupie, głupia, głupi \-   
 mądrość?
+
+---
 
 Wiersz na imieniny Baśki
 
@@ -785,6 +886,8 @@ zrozumiemy się.
 
 4 12 93
 
+---
+
 Miej\! Miejsce bezpieczne   
 zakurzone, ważne i piękne.   
 Urządzone jak chcesz,   
@@ -793,6 +896,8 @@ Jak? Lekko, zależy jak żyjesz
 ile jesz,  
 ile pracujesz,  
 ile śmiejesz się i co masz.
+
+---
 
 Gadaj, zmywaj, śpij i pierz   
 Ucz się, pływaj, kością trzeszcz   
@@ -809,6 +914,8 @@ a nic
 albo nić  
 zgniła.
 
+---
+
 Nie zgnije nić  
 ,,Maci pysk zamknąć"   
 nie będę gadać.  
@@ -817,6 +924,8 @@ nie zabiję, nie ukryję
 a zobaczę.
 
 9 01 94
+
+---
 
 Patrzę na  
 swoje miny   
@@ -834,6 +943,8 @@ nie zmienię.
 
 17 01 94
 
+---
+
 do siebie :przestań narzekać  
 zacznij się cieszyć   
 odległością  
@@ -842,6 +953,8 @@ pięknością
 i resztą.
 
 6 02 94
+
+---
 
 Wiersz Tuwima o dniu   
 cichym, śnieżnym  
@@ -852,10 +965,13 @@ odpowiedz mi.
 
 10 02 94
 
+---
+
 Wybacz, kupiłam imbryk   
 i miskę do sałaty (dwie)   
 forsy mnóstwo straciłeś   
 a ja nie.
 
 (dwudziestolecie ślubu, 94 05\)
+
 
