@@ -3,7 +3,6 @@ html, body {
   height: 100%;
   padding: 0;
   background-color: #ccc; /* szare tło */
-  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -16,6 +15,7 @@ html, body {
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   box-sizing: border-box;
   margin-block: 40px;
+  margin: 40px auto;
 
 }
 
