@@ -17,7 +17,6 @@ html, body {
 
 body {
   font-family: "Georgia", serif;
-  background-color: #fff; /* tło kanwasu */
   padding: 20px;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   min-height: 100vh;
