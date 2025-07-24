@@ -3,6 +3,7 @@ html, body {
   padding: 0;
   background-color: #ccc; /* szare tło */
   display: flex;
+  flex-direction: column;
   justify-content: center;
 }
 
