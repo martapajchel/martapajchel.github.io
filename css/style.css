@@ -10,12 +10,12 @@ html, body {
 }
 
 .canvas {
-  width: 700px;
+  width: 800px;
   background-color: #fff;
-  padding: 20px;
+  padding: 50px;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
   box-sizing: border-box;
-  margin-block: 40px; /* odstęp góra/dół */
+  margin-block: 40px;
 
 }
 
