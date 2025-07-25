@@ -1,4 +1,23 @@
 
+
+![Marta](img/MartaImg.jpg)
+
+. nie odchodź ode mnie
+Jeszcze
+już niedługo wiosna
+przecież
+potem lato
+i znów zima
+wytrzymasz*
+
+
+Wytrzymać było jednak coraz trudniej. Jej organizm poddawał się nowym słabościom, do postępującej „padasi” dołączyła cukrzyca. A Marta nie była człowiekiem walki, lecz człowiekiem troski: „padasia” to było także stworzenie Boże i nie należało jej zbyt brutalnie leczyć...
+Marta czuła potrzebę zapisywania tego co przeżywała od dawna. Pisała w blokach z makulatury i brulionach szkolnych, w bladą fioletową linię lub kratkę, długopisem z kiosku lub ołówkiem z grubsza zatemperowanym. Do tego próbowała rysować, zwykle twarze bliskich i przyjaciół oraz psy: najpierw Żula, a potem Kaję.
+Wierszy nie pisała dla literatury, ale dla siebie i przyjaciół, nie z ambicji, ale z potrzeby. Dlatego są one tak autentyczne, tak prawdziwie dokumentują życie Marty i jej bliskich, jej radości i lęki, jej prawdy i wątpliwości. Z drugiej strony zawierają one coś co łączy je z najlepszą literaturą: poszukiwanie Wielkiego Armatora. Ostatniej wiosny przeżywała bardzo poezję ks. Twardowskiego.
+Czy należało te wiersze publikować? Zapewne sama Marta niechętnie widziałaby formę starannego tomiku wypełnionego ładniutkimi literkami na bielutkich kartkach. Podejrzewam (a podejrzenie to graniczy z przekonaniem), że rzuciłaby w nas, winnych zamieszania, tym tomikiem. Z drugiej strony, wierszy swoich nie pisała do szuflady, chętnie się z nami nimi dzieliła, pisała o nas i dla nas. Dlatego pozwoliliśmy sobie na ten krok w przekonaniu, że niech już rzuca, ale nam wybaczy, że na podobieństwo jej potrzeby pisania zrozumie naszą potrzebę czytania, przedłużenia tej wspólnej chwili krzątaniną wokół tomiku.
+Bo to nie prawda co mówią, że nie ma ludzi niezastąpionych. Bo każdy człowiek jest niezastąpiony, i gdy odchodzi, to po to, żeby zająć swoje miejsce na zawsze.
+Grzegorz Chałasiński
+
 ---
 
 1. Dzień dobry Panu, mówi Marta Pajchel    
