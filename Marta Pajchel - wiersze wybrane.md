@@ -4,7 +4,6 @@
 
 ---
 
-<small>
 nie odchodź ode mnie  
 Jeszcze  
 już niedługo wiosna  
@@ -12,7 +11,6 @@ przecież
 potem lato  
 i znów zima  
 wytrzymasz*  
-</small>
 
 
 Wytrzymać było jednak coraz trudniej. Jej organizm poddawał się nowym słabościom, do postępującej „padasi” dołączyła cukrzyca. A Marta nie była człowiekiem walki, lecz człowiekiem troski: „padasia” to było także stworzenie Boże i nie należało jej zbyt brutalnie leczyć...
