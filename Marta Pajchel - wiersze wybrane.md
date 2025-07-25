@@ -2,6 +2,19 @@
 
 ![Marta](img/MartaImg.jpg)
 
+
+---
+
+
+
+##_Marta Pajchel_##
+
+
+
+###Wiersze wybrane###
+
+
+
 ---
 
 nie odchodź ode mnie  
