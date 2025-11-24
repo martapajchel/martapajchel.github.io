@@ -57,7 +57,7 @@ _Grzegorz Chałasiński_
 
 \*wiersz napisany pod wpływem wiadomości o śmierci doktora Disnera
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 
 ---
 
@@ -80,7 +80,7 @@ Pogadać, ale nie wejść na pole szarości
 Chcę wyjaśnienia, gdzie twoja druga strona   
 Gdzie szpara w drzwiach i Ogrom Całości  
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 PIOTR WIŚNIEWSKI
@@ -110,7 +110,7 @@ Ja zaczyna wątpić o my, które (pewne wy
 to oni,)  
 On potrafi odpowiedzieć Oni że ona.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Alergiczny nos
@@ -137,7 +137,7 @@ Lepiej wtedy śpię lub nie śpię też.
 Tylko, draniu, nie powoduj bólu gardła,  
 bo smarcząc, rozerwę cię.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Ukrócisz moją niepamięć, ukróć pamięć   
@@ -165,7 +165,7 @@ Jedna Ogromna łza
 Pan Nicość patrzy w szparze drzwiczek  
 Jeden Ogromny Żart.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Żabo zielona ma\!  
@@ -178,7 +178,7 @@ Co z czym? Oto pytanie \-
 Jak fizyczne o windzie i śrubie   
 zadanie.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 czy ciocia pisze wiersze?   
@@ -189,7 +189,7 @@ pogadamy? pokłócimy się?
 ja tak chcę\!  
 a może i nie?
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Odwagi z miękkością   
@@ -201,7 +201,7 @@ Obudzi ale nie zmęczy
 Słyszysz, Elka, coś jęczy, ale co to?   
 Chcę Twoich porad, są fantastyczne.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Pozwalają rechotać, i zwierzać się, myśleć   
@@ -215,7 +215,7 @@ Lubię Twoje niebieskie oczy, bo błyszczą
 tak jak włosy się kręcą....  
 i Świat \!\!\!
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Średni pies  
@@ -229,7 +229,7 @@ każe, żąda, chce.
 Nie rozważamy czy my  
 rozumieliśmy czy porozumiemy się.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Zagadki dla matki
@@ -253,7 +253,7 @@ A dla ciebie pytanko, ciekawe jak Żula nos
 Którego wiersza Miłosza nie zrozumiałam?   
 Odpowiedz – 
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Mamo\! posłuchaj\!  
@@ -281,7 +281,7 @@ sama zaczynasz gęgać \- nie wiedząc o tym
 i gdzie… od wieków gęgam ja  
 i gdzie… nie porozumiemy się.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Rodzinny obiad
@@ -307,7 +307,7 @@ Czy pamiętasz co było na przystawkie?
 Co było na zupkie?  
 Czy mogło być coś niedobrego?
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Dla Hani i Jasia
@@ -335,7 +335,7 @@ Kiciusie moje, wy...
 robicie już to, wy... szalejcie, myślcie, i...  
 wykochajcie i wyjedzcie mój świat... mi.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Słyszałam, a nie, wpadło mi w ucho.   
@@ -363,7 +363,7 @@ tra la la.
 
 28 10 92 z myślą o 13 11\.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Żulu, gdzie Twoja buzia   
@@ -377,7 +377,7 @@ jak uspokoić niepokój?
 
 18 12 92
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 … Wszystkich świętych
@@ -404,7 +404,7 @@ zamknij pysk… wołam ja.
 słuchaj lepiej ryku woła…   
 mówię ty… na ja\!
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Żulu, ukochany .  
@@ -429,7 +429,7 @@ Ukochany\! Ja nie wiem gdzie
 i jak?  
 1 03 93  
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Żulu\!  
@@ -445,7 +445,7 @@ Sobie o Kai
 Sobie o mnie.  
 1 03 93
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Żulu mojego serca   
@@ -466,7 +466,7 @@ znu…dzenia
 
 4 03 93
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Ptaku Twojego serca   
@@ -491,7 +491,7 @@ w niebie
 
 (str. 113 Halina Poświatowska)
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Kaja lizała tyłek   
@@ -507,7 +507,7 @@ ogon, ucho i pysk \- razem siedem łap.
 
 23 03 93
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Zimno jak się oparzę w palec   
@@ -520,7 +520,7 @@ Kiedy myślę o sobie.
 Diable\! Chcę spłonąć  
 lub zamarznąć z miłości.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Dawno \- mała, nieważna  
@@ -532,7 +532,7 @@ Choroby, ambicje, trudy
 i znowu początek.  
 I znowu dawno...
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Jeszcze nie wiem o czym   
@@ -541,7 +541,7 @@ Twojego życia
 I mojej powieści.  
 27 06 93
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Aura też uciekła  
@@ -555,7 +555,7 @@ Koluszki ugładzi.
 Sierpień' 93   
 Marianka
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Tereny na siebie załażą   
@@ -566,7 +566,7 @@ Odpowiadam wam.
 sierpień' 93   
 w Mariance
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Kaja się ruszyła   
@@ -577,7 +577,7 @@ W ruji czy już w ciąży?
 sierpień' 93   
 Marianka
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Czyja twarz wyjrzała?   
@@ -587,7 +587,7 @@ Jako cud nad Wisłą
 
 8 09 93
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 ,,Nie żyję dłużej od Ciebie   
@@ -611,7 +611,7 @@ O czym słyszałam?
 Przecież to nie ja o Tobie, Kaju, Haniu   
 śpiewałam...
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Młody człowiek, który badał 
@@ -634,7 +634,7 @@ Znała to uczucie od czasów, gdy była
 mu  
 Gdy tak leżeli, to, co było zakryte, ...
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Po lekcji francuskiego   
@@ -653,7 +653,7 @@ Czy tylko o metodę nauki
 języka obcego...   
 pytałam?  
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 ZGŁUPIALI   
@@ -665,7 +665,7 @@ TALENT TO PRZECIE
 OCZKO PRZYOSTRZONE   
 I MYŚLI SKUPIONE
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Sprzeczności
@@ -684,7 +684,7 @@ pospaceruję
 i umrę.  
 Hę?
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 A nie  
@@ -699,7 +699,7 @@ Tchórz, leń, zgryzota.
 
 26 05 93
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Hej, Jimmy, słyszysz   
@@ -734,7 +734,7 @@ od powierzchni jeziora,
 na Atlantyk powrócimy   
 my znów
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Walczyki
@@ -760,7 +760,7 @@ bliskość ludzi
 i odległość, samotność   
 miłości.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Coś błyszczy i lśni   
@@ -781,7 +781,7 @@ bo ja...
 nie.  
 albo chyba nie.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Sobie opowiadaj   
@@ -807,7 +807,7 @@ Straszne\!
 
 3 11 93 (wisielec na spacerze z psem)
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Mądry, Miły, tkliwy  
@@ -821,7 +821,7 @@ lenistwo zwiększa
 rozsądku i tak nie było  
 słów brakowało
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Głęboko w siebie,    
@@ -832,7 +832,7 @@ i nie o innych.
 Malutki świat   
 pogłębić.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Film jest wstrząsający.   
@@ -853,7 +853,7 @@ odległość.
 
 (11 93\)
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Wybitny poeto,  
@@ -870,7 +870,7 @@ Szczeka piesek na księżyc makowy?
 Coraz więcej, cholera, przychodzi do głowy.   
 Musi? Czyżby nie?
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Wy skubane  
@@ -886,7 +886,7 @@ Brać cały świat
 z radością i prostotą  
 jak moja mać.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Wiersz na czterdzieste piąte   
@@ -913,7 +913,7 @@ Przebaczyć i kretyństwa, i świństwa
 Obśmiać się i popłakać, wyspać się, wysapać   
 I po swojemu poskakać\!
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Wiersz na tytuł profesora   
@@ -940,7 +940,7 @@ Bez dystansu nie będzie miary
 
 \*(str. 140 J. T.,,nie przyszedłem")
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Chcę mieć prawo do ,,nie".  
@@ -958,7 +958,7 @@ Pogadam w piekle z Hitlerem, Stalinem i może
 zobaczę jak siedzą i płaczą. Głupie, głupia, głupi \-   
 mądrość?
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Wiersz na imieniny Baśki
@@ -981,7 +981,7 @@ zrozumiemy się.
 
 4 12 93
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Miej\! Miejsce bezpieczne   
@@ -993,7 +993,7 @@ ile jesz,
 ile pracujesz,  
 ile śmiejesz się i co masz.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Gadaj, zmywaj, śpij i pierz   
@@ -1011,7 +1011,7 @@ a nic
 albo nić  
 zgniła.
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Nie zgnije nić  
@@ -1023,7 +1023,7 @@ a zobaczę.
 
 9 01 94
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Patrzę na  
@@ -1042,7 +1042,7 @@ nie zmienię.
 
 17 01 94
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 do siebie :przestań narzekać  
@@ -1054,7 +1054,7 @@ i resztą.
 
 6 02 94
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Wiersz Tuwima o dniu   
@@ -1066,7 +1066,7 @@ odpowiedz mi.
 
 10 02 94
 
-[powrót](#toc)  
+#### [powrót](#toc)  
 ---
 
 Wybacz, kupiłam imbryk   
