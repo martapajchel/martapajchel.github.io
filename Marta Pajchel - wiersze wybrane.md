@@ -531,6 +531,7 @@ ogon, ucho i pysk \- razem siedem łap.
 #### [powrót](#toc)  
 ---
 
+<a name="Zimno jak się oparzę w palec">
 Zimno jak się oparzę w palec   
 Cieplej jak palec w chłodzie  
 Upał w piekle za to   
@@ -544,6 +545,8 @@ lub zamarznąć z miłości.
 #### [powrót](#toc)  
 ---
 
+
+<a name="Dawno">
 Dawno \- mała, nieważna  
 Później \- wzorowa, grzeczna  
 Jeszcze później \- brzydka.  
@@ -556,6 +559,7 @@ I znowu dawno...
 #### [powrót](#toc)  
 ---
 
+<a name="Jeszcze">
 Jeszcze nie wiem o czym   
 Jeszcze nie znam treści  
 Twojego życia  
@@ -565,6 +569,7 @@ I mojej powieści.
 #### [powrót](#toc)  
 ---
 
+<a name="Aura">
 Aura też uciekła  
 Też jej nie skończyłam  
 Lecz problemu Kajki nie postawiłam  
@@ -579,6 +584,7 @@ Marianka
 #### [powrót](#toc)  
 ---
 
+<a name="Tereny">
 Tereny na siebie załażą   
 Czyj na czyj? \- pytam.   
 Mój na wasz\!  
@@ -590,6 +596,7 @@ w Mariance
 #### [powrót](#toc)  
 ---
 
+<a name="Kaja się ruszyła">
 Kaja się ruszyła   
 Już jej nie skończyłam   
 Już jej nie dokończę   
@@ -601,6 +608,7 @@ Marianka
 #### [powrót](#toc)  
 ---
 
+<a name="Czyja twarz">
 Czyja twarz wyjrzała?   
 I po co? Wyszła   
 Nie udałeś mi się   
@@ -611,6 +619,7 @@ Jako cud nad Wisłą
 #### [powrót](#toc)  
 ---
 
+<a name="Nie żyję dłużej">
 ,,Nie żyję dłużej od Ciebie   
 niż jedenaście lat.  
 Bobym się udusiła.   
@@ -635,6 +644,7 @@ Przecież to nie ja o Tobie, Kaju, Haniu
 #### [powrót](#toc)  
 ---
 
+<a name="Młody człowiek">
 Młody człowiek, który badał 
 
 Wiedział, jak się wysadza   
@@ -658,6 +668,7 @@ Gdy tak leżeli, to, co było zakryte, ...
 #### [powrót](#toc)  
 ---
 
+<a name="Po lekcji francuskiego">
 Po lekcji francuskiego   
 Sen o lekcji angielskiego…   
 W pokoju Hani  
@@ -677,6 +688,7 @@ pytałam?
 #### [powrót](#toc)  
 ---
 
+<a name="Talent">
 ZGŁUPIALI   
 MAĆ AUTOGRESJĘ ĆWICZY   
 CORAZ LEPIEJ  
@@ -689,6 +701,7 @@ I MYŚLI SKUPIONE
 #### [powrót](#toc)  
 ---
 
+<a name="Sprzeczności">
 Sprzeczności
 
 Kiedy przebaczę?   
@@ -708,6 +721,7 @@ Hę?
 #### [powrót](#toc)  
 ---
 
+<a name="A nie">
 A nie  
 A nigdy  
 A żyję.  
@@ -723,6 +737,7 @@ Tchórz, leń, zgryzota.
 #### [powrót](#toc)  
 ---
 
+<a name="Hej, Jimmy">
 Hej, Jimmy, słyszysz   
 plusk wieloryba i  
 Atlantyku cudowny śpiew?   
@@ -758,6 +773,7 @@ my znów
 #### [powrót](#toc)  
 ---
 
+<a name="Walczyki">
 Walczyki
 
 Rozmiary? Nie?  
@@ -784,6 +800,7 @@ miłości.
 #### [powrót](#toc)  
 ---
 
+<a name="Coś błyszczy i lśni">
 Coś błyszczy i lśni   
 nie pachnie,  
 czai się  
@@ -805,6 +822,8 @@ albo chyba nie.
 #### [powrót](#toc)  
 ---
 
+
+<a name="Sobie opowiadaj">
 Sobie opowiadaj   
 nie innym, bo im straszno.   
 Lekkość przestrzeni badaj   
@@ -831,6 +850,7 @@ Straszne\!
 #### [powrót](#toc)  
 ---
 
+<a name="Mądry, Miły, tkliwy">
 Mądry, Miły, tkliwy  
 Żywy, wolny, dobry   
 Rozsądny, szybki, brzydki  
@@ -845,6 +865,7 @@ słów brakowało
 #### [powrót](#toc)  
 ---
 
+<a name="Głęboko w siebie">
 Głęboko w siebie,    
 trudno w innych.   
 Trudno głębiej   
@@ -856,6 +877,8 @@ pogłębić.
 #### [powrót](#toc)  
 ---
 
+
+<a name="Film">
 Film jest wstrząsający.   
 Piękne widoki na Bergen   
 Daleka i obca muzyka  
@@ -877,6 +900,7 @@ odległość.
 #### [powrót](#toc)  
 ---
 
+<a name="Wybitny poeto">
 Wybitny poeto,  
 nie rozumiem Cię.  
 Jeśli jestem tylko jedną z rzeczy wielu  
@@ -894,6 +918,7 @@ Musi? Czyżby nie?
 #### [powrót](#toc)  
 ---
 
+<a name="Wy skubane">
 Wy skubane  
 nie, słodkie  
 albo wyskubane  
@@ -909,6 +934,8 @@ jak moja mać.
 
 #### [powrót](#toc)  
 ---
+
+<a name="Wiersz na czterdzieste piąte urodziny Baśki Chałasińskiej">
 
 Wiersz na czterdzieste piąte   
 urodziny Baśki Chałasińskiej
@@ -937,6 +964,9 @@ I po swojemu poskakać\!
 #### [powrót](#toc)  
 ---
 
+
+<a name="Wiersz na tytuł profesora Grześka Chałasińskiego.">
+
 Wiersz na tytuł profesora   
 Grześka Chałasińskiego.
 
@@ -964,6 +994,8 @@ Bez dystansu nie będzie miary
 #### [powrót](#toc)  
 ---
 
+
+<a name="Chcę mieć prawo do nie">
 Chcę mieć prawo do ,,nie".  
 Literatura w “moim” języku, “moja” religia, “moje  
 świątynie" to już ograniczenie.  
@@ -982,6 +1014,8 @@ mądrość?
 #### [powrót](#toc)  
 ---
 
+
+<a name="Wiersz na imieniny Baśki">
 Wiersz na imieniny Baśki
 
 Tańczę, przyjdziesz, a  
