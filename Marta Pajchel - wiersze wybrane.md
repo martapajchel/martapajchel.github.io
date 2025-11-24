@@ -172,6 +172,7 @@ Jeden Ogromny Żart.
 #### [powrót](#toc)  
 ---
 
+<a name="Żabo zielona ma">
 Żabo zielona ma\!  
 Oto jak moment piętnaście prysło   
 Uśmiałaś się chociaż?  
@@ -185,6 +186,7 @@ zadanie.
 #### [powrót](#toc)  
 ---
 
+<a name="czy ciocia pisze wiersze">
 czy ciocia pisze wiersze?   
 czy pali jeszcze  
 czy gada dużo  
@@ -196,6 +198,7 @@ a może i nie?
 #### [powrót](#toc)  
 ---
 
+<a name="Odwagi z miękkością">
 Odwagi z miękkością   
 lenistwa z jakością  
 sympatii czy czegoś takiego dla ludzi  
@@ -208,6 +211,7 @@ Chcę Twoich porad, są fantastyczne.
 #### [powrót](#toc)  
 ---
 
+<a name="Pozwalają rechotać">
 Pozwalają rechotać, i zwierzać się, myśleć   
 Śpiewać, wiosłować, piec ciasto,  
 O rany, właściwie sport każdy uprawiać.   
@@ -222,6 +226,7 @@ i Świat \!\!\!
 #### [powrót](#toc)  
 ---
 
+<a name="Średni pies">
 Średni pies  
 dobry jest, uszy ma dwa   
 i oczy mu błyszczą,  
@@ -236,6 +241,7 @@ rozumieliśmy czy porozumiemy się.
 #### [powrót](#toc)  
 ---
 
+<a name="Zagadki dla matki">
 Zagadki dla matki
 
 Żołądź na dębie wyrósł Na dębie oszroniały wlazę   
@@ -260,6 +266,7 @@ Odpowiedz –
 #### [powrót](#toc)  
 ---
 
+<a name="Mamo posłuchaj">
 Mamo\! posłuchaj\!  
 Napisałam Ci Wiersz. Zastanów się   
 Wiersz jest w gruncie rzeczy o mnie,   
@@ -288,6 +295,7 @@ i gdzie… nie porozumiemy się.
 #### [powrót](#toc)  
 ---
 
+<a name="Rodzinny obiad">
 Rodzinny obiad
 
 Agresja, chłód, uśmiech przylepiony do pyska   
@@ -314,6 +322,7 @@ Czy mogło być coś niedobrego?
 #### [powrót](#toc)  
 ---
 
+<a name="Dla Hani i Jasia">
 Dla Hani i Jasia
 
 Zgięty łokieć pod pełnym policzkiem   
@@ -342,6 +351,7 @@ wykochajcie i wyjedzcie mój świat... mi.
 #### [powrót](#toc)  
 ---
 
+<a name="Słyszałam">
 Słyszałam, a nie, wpadło mi w ucho.   
 też nie, coś nudnego przeczytałam,   
 Przemyślałam  
@@ -370,6 +380,7 @@ tra la la.
 #### [powrót](#toc)  
 ---
 
+<a name="Żulu, gdzie Twoja buzia">
 Żulu, gdzie Twoja buzia   
 oczy, ogon, spokój   
 wstałeś,  
@@ -384,6 +395,7 @@ jak uspokoić niepokój?
 #### [powrót](#toc)  
 ---
 
+<a name="Wszystkich świętych">
 … Wszystkich świętych
 
 czosnek…. jestem? ja?  
@@ -411,6 +423,7 @@ mówię ty… na ja\!
 #### [powrót](#toc)  
 ---
 
+<a name="Żulu, ukochany">
 Żulu, ukochany .  
 Już kropka po zdaniu.  
 Jeszcze końca nie osiągnęłam, a ty  
@@ -436,6 +449,7 @@ i jak?
 #### [powrót](#toc)  
 ---
 
+<a name="Żulu, Wlazłeś">
 Żulu\!  
 Wlazłeś już w Kaję  
 Czy w tym moja małość   
@@ -452,6 +466,7 @@ Sobie o mnie.
 #### [powrót](#toc)  
 ---
 
+<a name="Żulu mojego serca">
 Żulu mojego serca   
 szwędasz się?  
 na pewno…  
@@ -473,6 +488,7 @@ znu…dzenia
 #### [powrót](#toc)  
 ---
 
+<a name="Ptaku Twojego serca">
 Ptaku Twojego serca   
 czego chcesz?  
 Jeść?  
@@ -498,6 +514,7 @@ w niebie
 #### [powrót](#toc)  
 ---
 
+<a name="Kaja lizała tyłek">
 Kaja lizała tyłek   
 Ja ją rysowałam   
 ona się ruszała  
