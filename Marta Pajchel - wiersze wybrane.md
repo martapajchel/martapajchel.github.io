@@ -40,6 +40,13 @@ _Grzegorz Chałasiński_
 
 ---
 
+### Spis treści:
+[Dzień dobry Panu...](#dzien_dobry)  
+[Tęsknota za kimś jedynym.](#tesknota)
+
+---
+
+<a name="dzien_dobry"/>
 1. Dzień dobry Panu, mówi Marta Pajchel    
 2. Gdzie pan jest?   
 3. Jak się nie żyje?   
@@ -52,6 +59,7 @@ _Grzegorz Chałasiński_
 
 ---
 
+<a name="tesknota">
 Tęsknota za kimś jedynym.   
 Napisałeś Piotrek Brak ram \- brak wyjść.   
 Rany bierzesz za ramy.   
