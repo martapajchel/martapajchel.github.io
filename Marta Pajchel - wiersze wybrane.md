@@ -43,6 +43,7 @@ _Grzegorz Chałasiński_
 ### Spis treści:
 [Dzień dobry Panu...](#dzien_dobry)  
 [Tęsknota za kimś jedynym.](#tesknota)
+[PIOTR WIŚNIEWSKI](#PIOTR WIŚNIEWSKI)
 
 ---
 
@@ -83,6 +84,7 @@ Gdzie szpara w drzwiach i Ogrom Całości
 #### [powrót](#toc)  
 ---
 
+<a name="PIOTR WIŚNIEWSKI">
 PIOTR WIŚNIEWSKI
 
 Piotr W odpowiedział NIE \- TAK   
@@ -113,6 +115,7 @@ On potrafi odpowiedzieć Oni że ona.
 #### [powrót](#toc)  
 ---
 
+<a name="Alergiczny nos">
 Alergiczny nos
 
 Już patrzę na niego z boku   
@@ -140,6 +143,7 @@ bo smarcząc, rozerwę cię.
 #### [powrót](#toc)  
 ---
 
+<a name="Ukrócisz moją niepamięć">
 Ukrócisz moją niepamięć, ukróć pamięć   
 Zapamiętujesz żeby oddać mi prawie wszystko   
 Najlepsze części po drugiej stronie   
