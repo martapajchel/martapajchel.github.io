@@ -1194,4 +1194,5 @@ a ja nie.
   
 (dwudziestolecie ślubu, 94 05\)  
   
+#### [powrót](#toc)  
   
