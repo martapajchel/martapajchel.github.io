@@ -1,0 +1,8 @@
+grep -A 1 "a name" Marta\ Pajchel\ -\ wiersze\ wybrane.md |
+sed s/\<a\ name=\"/\(\#/ |
+sed s/\"\>$/\)/  |
+while read a; do
+	[ "$a" = "--" ] && continue;
+	read b
+	echo "[$b]"$a
+done
