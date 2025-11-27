@@ -102,9 +102,7 @@ _Grzegorz Chałasiński_
 
 ---
 <a name="dzien_dobry" />
-
-(#dzien_dobry)
-
+  
 1. Dzień dobry Panu, mówi Marta Pajchel  
 2. Gdzie pan jest?  
 3. Jak się nie żyje?  
