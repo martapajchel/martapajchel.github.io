@@ -40,7 +40,7 @@ _Grzegorz Chałasiński_
 
 ---
 
-<a id="toc" />
+<a id="toc"></a>
 
 ### Spis treści:  
   
@@ -101,7 +101,7 @@ _Grzegorz Chałasiński_
 [Wybacz, kupiłam imbryk](#Wybacz)  
 
 ---
-<a id="dzien_dobry" />
+<a id="dzien_dobry"></a>
   
 1. Dzień dobry Panu, mówi Marta Pajchel  
 2. Gdzie pan jest?  
@@ -116,7 +116,7 @@ _Grzegorz Chałasiński_
 #### [powrót](#toc)
 
 ---
-<a id="tesknota" />
+<a id="tesknota"></a>
 
 Tęsknota za kimś jedynym.  
 Napisałeś Piotrek Brak ram \- brak wyjść.  
@@ -138,7 +138,7 @@ Gdzie szpara w drzwiach i Ogrom Całości
 
 #### [powrót](#toc)  
 ---
-<a id="PIOTR_WIŚNIEWSKI" />
+<a id="PIOTR_WIŚNIEWSKI"></a>
 
 PIOTR WIŚNIEWSKI  
   
@@ -169,7 +169,7 @@ On potrafi odpowiedzieć Oni że ona.
   
 #### [powrót](#toc)  
 ---
-<a id="Alergiczny_nos" />
+<a id="Alergiczny_nos"></a>
 
 Alergiczny nos  
   
@@ -197,7 +197,7 @@ bo smarcząc, rozerwę cię.
   
 #### [powrót](#toc)  
 ---
-<a id="Ukrócisz" />
+<a id="Ukrócisz"></a>
 
 Ukrócisz moją niepamięć, ukróć pamięć  
 Zapamiętujesz żeby oddać mi prawie wszystko  
@@ -226,7 +226,7 @@ Jeden Ogromny Żart.
   
 #### [powrót](#toc)  
 ---
-<a id="Żabo" />
+<a id="Żabo"></a>
 
 Żabo zielona ma\!  
 Oto jak moment piętnaście prysło  
@@ -240,7 +240,7 @@ zadanie.
   
 #### [powrót](#toc)  
 ---
-<a id="czy_ciocia" />
+<a id="czy_ciocia"></a>
 
 czy ciocia pisze wiersze?  
 czy pali jeszcze  
@@ -252,7 +252,7 @@ a może i nie?
   
 #### [powrót](#toc)  
 ---
-<a id="Odwagi" />
+<a id="Odwagi"></a>
 
 Odwagi z miękkością  
 lenistwa z jakością  
@@ -265,7 +265,7 @@ Chcę Twoich porad, są fantastyczne.
   
 #### [powrót](#toc)  
 ---
-<a id="Pozwalają" />
+<a id="Pozwalają"></a>
 
 Pozwalają rechotać, i zwierzać się, myśleć  
 Śpiewać, wiosłować, piec ciasto,  
@@ -280,7 +280,7 @@ i Świat \!\!\!
   
 #### [powrót](#toc)  
 ---
-<a id="Średni" />
+<a id="Średni"></a>
 
 Średni pies  
 dobry jest, uszy ma dwa  
@@ -295,7 +295,7 @@ rozumieliśmy czy porozumiemy się.
   
 #### [powrót](#toc)  
 ---
-<a id="Zagadki" />
+<a id="Zagadki"></a>
 
 Zagadki dla matki  
   
@@ -320,7 +320,7 @@ Odpowiedz –
   
 #### [powrót](#toc)  
 ---
-<a id="Mamo" />
+<a id="Mamo"></a>
 
 Mamo\! posłuchaj\!  
 Napisałam Ci Wiersz. Zastanów się  
@@ -349,7 +349,7 @@ i gdzie… nie porozumiemy się.
   
 #### [powrót](#toc)  
 ---
-<a id="Rodzinny_obiad" />
+<a id="Rodzinny_obiad"></a>
 
 Rodzinny obiad  
   
@@ -376,7 +376,7 @@ Czy mogło być coś niedobrego?
   
 #### [powrót](#toc)  
 ---
-<a id="Dla_Hani_i_Jasia" />
+<a id="Dla_Hani_i_Jasia"></a>
 
 Dla Hani i Jasia  
   
@@ -405,7 +405,7 @@ wykochajcie i wyjedzcie mój świat... mi.
   
 #### [powrót](#toc)  
 ---
-<a id="Słyszałam" />
+<a id="Słyszałam"></a>
 
 Słyszałam, a nie, wpadło mi w ucho.  
 też nie, coś nudnego przeczytałam,  
@@ -434,7 +434,7 @@ tra la la.
   
 #### [powrót](#toc)  
 ---
-<a id="Żulu_gdzie_Twoja_buzia" />
+<a id="Żulu_gdzie_Twoja_buzia"></a>
 
 Żulu, gdzie Twoja buzia  
 oczy, ogon, spokój  
@@ -450,7 +450,7 @@ jak uspokoić niepokój?
 #### [powrót](#toc)  
 ---
 
-<a id="Wszystkich_świętych" />
+<a id="Wszystkich_świętych"></a>
 … Wszystkich świętych  
   
 czosnek…. jestem? ja?  
@@ -477,7 +477,7 @@ mówię ty… na ja\!
   
 #### [powrót](#toc)  
 ---
-<a id="Żulu_ukochany" />
+<a id="Żulu_ukochany"></a>
 
 Żulu, ukochany .  
 Już kropka po zdaniu.  
@@ -503,7 +503,7 @@ i jak?
   
 #### [powrót](#toc)  
 ---
-<a id="Żulu_Wlazłeś" />
+<a id="Żulu_Wlazłeś"></a>
 
 Żulu\!  
 Wlazłeś już w Kaję  
@@ -520,7 +520,7 @@ Sobie o mnie.
   
 #### [powrót](#toc)  
 ---
-<a id="Żulu_mojego_serca" />
+<a id="Żulu_mojego_serca"></a>
 
 Żulu mojego serca  
 szwędasz się?  
@@ -542,7 +542,7 @@ znu…dzenia
   
 #### [powrót](#toc)  
 ---
-<a id="Ptaku_Twojego_serca" />
+<a id="Ptaku_Twojego_serca"></a>
 
 Ptaku Twojego serca  
 czego chcesz?  
@@ -568,7 +568,7 @@ w niebie
   
 #### [powrót](#toc)  
 ---
-<a id="Kaja_lizała_tyłek" />
+<a id="Kaja_lizała_tyłek"></a>
 
 Kaja lizała tyłek  
 Ja ją rysowałam  
@@ -585,7 +585,7 @@ ogon, ucho i pysk \- razem siedem łap.
   
 #### [powrót](#toc)  
 ---
-<a id="Zimno" />
+<a id="Zimno"></a>
 
 Zimno jak się oparzę w palec  
 Cieplej jak palec w chłodzie  
@@ -599,7 +599,7 @@ lub zamarznąć z miłości.
   
 #### [powrót](#toc)  
 ---
-<a id="Dawno" />
+<a id="Dawno"></a>
 
 Dawno \- mała, nieważna  
 Później \- wzorowa, grzeczna  
@@ -612,7 +612,7 @@ I znowu dawno...
   
 #### [powrót](#toc)  
 ---
-<a id="Jeszcze" />
+<a id="Jeszcze"></a>
 
 Jeszcze nie wiem o czym  
 Jeszcze nie znam treści  
@@ -622,7 +622,7 @@ I mojej powieści.
   
 #### [powrót](#toc)  
 ---
-<a id="Aura" />
+<a id="Aura"></a>
 
 Aura też uciekła  
 Też jej nie skończyłam  
@@ -637,7 +637,7 @@ Marianka
   
 #### [powrót](#toc)  
 ---
-<a id="Tereny" />
+<a id="Tereny"></a>
 
 Tereny na siebie załażą  
 Czyj na czyj? \- pytam.  
@@ -649,7 +649,7 @@ w Mariance
   
 #### [powrót](#toc)  
 ---
-<a id="Kaja" />
+<a id="Kaja"></a>
 
 Kaja się ruszyła  
 Już jej nie skończyłam  
@@ -661,7 +661,7 @@ Marianka
   
 #### [powrót](#toc)  
 ---
-<a id="Czyja_twarz" />
+<a id="Czyja_twarz"></a>
 
 Czyja twarz wyjrzała?  
 I po co? Wyszła  
@@ -672,7 +672,7 @@ Jako cud nad Wisłą
   
 #### [powrót](#toc)  
 ---
-<a id="Nie_żyję_dłużej" />
+<a id="Nie_żyję_dłużej"></a>
 
 ,,Nie żyję dłużej od Ciebie  
 niż jedenaście lat.  
@@ -697,7 +697,7 @@ Przecież to nie ja o Tobie, Kaju, Haniu
   
 #### [powrót](#toc)  
 ---
-<a id="Młody_człowiek" />
+<a id="Młody_człowiek"></a>
 
 Młody człowiek, który badał  
   
@@ -721,7 +721,7 @@ Gdy tak leżeli, to, co było zakryte, ...
   
 #### [powrót](#toc)  
 ---
-<a id="Po_lekcji_francuskiego" />
+<a id="Po_lekcji_francuskiego"></a>
 
 Po lekcji francuskiego  
 Sen o lekcji angielskiego…  
@@ -741,7 +741,7 @@ pytałam?
   
 #### [powrót](#toc)  
 ---
-<a id="Talent" />
+<a id="Talent"></a>
 
 ZGŁUPIALI  
 MAĆ AUTOGRESJĘ ĆWICZY  
@@ -754,7 +754,7 @@ I MYŚLI SKUPIONE
   
 #### [powrót](#toc)  
 ---
-<a id="Sprzeczności" />
+<a id="Sprzeczności"></a>
 
 Sprzeczności  
   
@@ -774,7 +774,7 @@ Hę?
   
 #### [powrót](#toc)  
 ---
-<a id="A_nie" />
+<a id="A_nie"></a>
 
 A nie  
 A nigdy  
@@ -790,7 +790,7 @@ Tchórz, leń, zgryzota.
   
 #### [powrót](#toc)  
 ---
-<a id="Hej_Jimmy" />
+<a id="Hej_Jimmy"></a>
 
 Hej, Jimmy, słyszysz  
 plusk wieloryba i  
@@ -826,7 +826,7 @@ my znów
   
 #### [powrót](#toc)  
 ---
-<a id="Walczyki" />
+<a id="Walczyki"></a>
 
 Walczyki  
   
@@ -853,7 +853,7 @@ miłości.
   
 #### [powrót](#toc)  
 ---
-<a id="Coś_błyszczy" />
+<a id="Coś_błyszczy"></a>
 
 Coś błyszczy i lśni  
 nie pachnie,  
@@ -876,7 +876,7 @@ albo chyba nie.
 #### [powrót](#toc)  
 
 ---
-<a id="Sobie_opowiadaj" />
+<a id="Sobie_opowiadaj"></a>
 
 Sobie opowiadaj  
 nie innym, bo im straszno.  
@@ -904,7 +904,7 @@ Straszne\!
 #### [powrót](#toc)  
 
 ---
-<a id="Mądry" />
+<a id="Mądry"></a>
 
 Mądry, Miły, tkliwy  
 Żywy, wolny, dobry  
@@ -920,7 +920,7 @@ słów brakowało
 #### [powrót](#toc)  
 
 ---
-<a id="Głęboko_w_siebie" />
+<a id="Głęboko_w_siebie"></a>
 
 Głęboko w siebie,  
 trudno w innych.  
@@ -932,7 +932,7 @@ pogłębić.
   
 #### [powrót](#toc)  
 ---
-<a id="Film" />
+<a id="Film"></a>
 
 Film jest wstrząsający.  
 Piękne widoki na Bergen  
@@ -954,7 +954,7 @@ odległość.
   
 #### [powrót](#toc)  
 ---
-<a id="Wybitny_poeto" />
+<a id="Wybitny_poeto"></a>
 
 Wybitny poeto,  
 nie rozumiem Cię.  
@@ -972,7 +972,7 @@ Musi? Czyżby nie?
   
 #### [powrót](#toc)  
 ---
-<a id="Wy_skubane" />
+<a id="Wy_skubane"></a>
 
 Wy skubane  
 nie, słodkie  
@@ -989,7 +989,7 @@ jak moja mać.
   
 #### [powrót](#toc)  
 ---
-<a id="Wiersz_na_czterdzieste_piąte" />
+<a id="Wiersz_na_czterdzieste_piąte"></a>
 
 
 Wiersz na czterdzieste piąte  
@@ -1018,7 +1018,7 @@ I po swojemu poskakać\!
   
 #### [powrót](#toc)  
 ---
-<a id="Wiersz_na_tytuł" />
+<a id="Wiersz_na_tytuł"></a>
 
 Wiersz na tytuł profesora  
 Grześka Chałasińskiego.  
@@ -1046,7 +1046,7 @@ Bez dystansu nie będzie miary
   
 #### [powrót](#toc)  
 ---
-<a id="Chcę_mieć_prawo" />
+<a id="Chcę_mieć_prawo"></a>
 
 Chcę mieć prawo do ,,nie".  
 Literatura w “moim” języku, “moja” religia, “moje  
@@ -1065,7 +1065,7 @@ mądrość?
   
 #### [powrót](#toc)  
 ---
-<a id="Wiersz_na_imieniny" />
+<a id="Wiersz_na_imieniny"></a>
 
 Wiersz na imieniny Baśki  
   
@@ -1089,7 +1089,7 @@ zrozumiemy się.
   
 #### [powrót](#toc)  
 ---
-<a id="Miej" />
+<a id="Miej"></a>
 
 Miej\! Miejsce bezpieczne  
 zakurzone, ważne i piękne.  
@@ -1102,7 +1102,7 @@ ile śmiejesz się i co masz.
   
 #### [powrót](#toc)  
 ---
-<a id="Gadaj" />
+<a id="Gadaj"></a>
 
 Gadaj, zmywaj, śpij i pierz  
 Ucz się, pływaj, kością trzeszcz  
@@ -1121,7 +1121,7 @@ zgniła.
   
 #### [powrót](#toc)  
 ---
-<a id="Nie_zgnije_nić" />
+<a id="Nie_zgnije_nić"></a>
 
 Nie zgnije nić  
 ,,Maci pysk zamknąć"  
@@ -1134,7 +1134,7 @@ a zobaczę.
   
 #### [powrót](#toc)  
 ---
-<a id="Patrzę" />
+<a id="Patrzę"></a>
 
 Patrzę na  
 swoje miny  
@@ -1154,7 +1154,7 @@ nie zmienię.
   
 #### [powrót](#toc)  
 ---
-<a id="do_siebie" />
+<a id="do_siebie"></a>
 
 do siebie :przestań narzekać  
 zacznij się cieszyć  
@@ -1167,7 +1167,7 @@ i resztą.
   
 #### [powrót](#toc)  
 ---
-<a id="Wiersz_Tuwima" />
+<a id="Wiersz_Tuwima"></a>
 
 Wiersz Tuwima o dniu  
 cichym, śnieżnym  
@@ -1180,7 +1180,7 @@ odpowiedz mi.
   
 #### [powrót](#toc)  
 ---
-<a id="Wybacz" />
+<a id="Wybacz"></a>
 
 Wybacz, kupiłam imbryk  
 i miskę do sałaty (dwie)  
