@@ -101,8 +101,8 @@ _Grzegorz Chałasiński_
 [Wybacz, kupiłam imbryk](#Wybacz)  
 
 ---
-
 <a name="dzien_dobry" />
+
 (#dzien_dobry)
 
 1. Dzień dobry Panu, mówi Marta Pajchel  
@@ -199,8 +199,8 @@ bo smarcząc, rozerwę cię.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Ukrócisz" />
+
 Ukrócisz moją niepamięć, ukróć pamięć  
 Zapamiętujesz żeby oddać mi prawie wszystko  
 Najlepsze części po drugiej stronie  
@@ -228,8 +228,8 @@ Jeden Ogromny Żart.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Żabo" />
+
 Żabo zielona ma\!  
 Oto jak moment piętnaście prysło  
 Uśmiałaś się chociaż?  
@@ -242,8 +242,8 @@ zadanie.
   
 #### [powrót](#toc)  
 ---
-
 <a name="czy_ciocia" />
+
 czy ciocia pisze wiersze?  
 czy pali jeszcze  
 czy gada dużo  
@@ -254,8 +254,8 @@ a może i nie?
   
 #### [powrót](#toc)  
 ---
-
 <a name="Odwagi" />
+
 Odwagi z miękkością  
 lenistwa z jakością  
 sympatii czy czegoś takiego dla ludzi  
@@ -267,8 +267,8 @@ Chcę Twoich porad, są fantastyczne.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Pozwalają" />
+
 Pozwalają rechotać, i zwierzać się, myśleć  
 Śpiewać, wiosłować, piec ciasto,  
 O rany, właściwie sport każdy uprawiać.  
@@ -282,8 +282,8 @@ i Świat \!\!\!
   
 #### [powrót](#toc)  
 ---
-
 <a name="Średni" />
+
 Średni pies  
 dobry jest, uszy ma dwa  
 i oczy mu błyszczą,  
@@ -297,8 +297,8 @@ rozumieliśmy czy porozumiemy się.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Zagadki" />
+
 Zagadki dla matki  
   
 Żołądź na dębie wyrósł Na dębie oszroniały wlazę  
@@ -322,8 +322,8 @@ Odpowiedz –
   
 #### [powrót](#toc)  
 ---
-
 <a name="Mamo" />
+
 Mamo\! posłuchaj\!  
 Napisałam Ci Wiersz. Zastanów się  
 Wiersz jest w gruncie rzeczy o mnie,  
@@ -351,8 +351,8 @@ i gdzie… nie porozumiemy się.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Rodzinny_obiad" />
+
 Rodzinny obiad  
   
 Agresja, chłód, uśmiech przylepiony do pyska  
@@ -378,8 +378,8 @@ Czy mogło być coś niedobrego?
   
 #### [powrót](#toc)  
 ---
-
 <a name="Dla_Hani_i_Jasia" />
+
 Dla Hani i Jasia  
   
 Zgięty łokieć pod pełnym policzkiem  
@@ -407,8 +407,8 @@ wykochajcie i wyjedzcie mój świat... mi.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Słyszałam" />
+
 Słyszałam, a nie, wpadło mi w ucho.  
 też nie, coś nudnego przeczytałam,  
 Przemyślałam  
@@ -436,8 +436,8 @@ tra la la.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Żulu_gdzie_Twoja_buzia" />
+
 Żulu, gdzie Twoja buzia  
 oczy, ogon, spokój  
 wstałeś,  
@@ -479,8 +479,8 @@ mówię ty… na ja\!
   
 #### [powrót](#toc)  
 ---
-
 <a name="Żulu_ukochany" />
+
 Żulu, ukochany .  
 Już kropka po zdaniu.  
 Jeszcze końca nie osiągnęłam, a ty  
@@ -505,8 +505,8 @@ i jak?
   
 #### [powrót](#toc)  
 ---
-
 <a name="Żulu_Wlazłeś" />
+
 Żulu\!  
 Wlazłeś już w Kaję  
 Czy w tym moja małość  
@@ -522,8 +522,8 @@ Sobie o mnie.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Żulu_mojego_serca" />
+
 Żulu mojego serca  
 szwędasz się?  
 na pewno…  
@@ -544,8 +544,8 @@ znu…dzenia
   
 #### [powrót](#toc)  
 ---
-
 <a name="Ptaku_Twojego_serca" />
+
 Ptaku Twojego serca  
 czego chcesz?  
 Jeść?  
@@ -570,8 +570,8 @@ w niebie
   
 #### [powrót](#toc)  
 ---
-
 <a name="Kaja_lizała_tyłek" />
+
 Kaja lizała tyłek  
 Ja ją rysowałam  
 ona się ruszała  
@@ -587,8 +587,8 @@ ogon, ucho i pysk \- razem siedem łap.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Zimno" />
+
 Zimno jak się oparzę w palec  
 Cieplej jak palec w chłodzie  
 Upał w piekle za to  
@@ -601,9 +601,8 @@ lub zamarznąć z miłości.
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Dawno" />
+
 Dawno \- mała, nieważna  
 Później \- wzorowa, grzeczna  
 Jeszcze później \- brzydka.  
@@ -615,8 +614,8 @@ I znowu dawno...
   
 #### [powrót](#toc)  
 ---
-
 <a name="Jeszcze" />
+
 Jeszcze nie wiem o czym  
 Jeszcze nie znam treści  
 Twojego życia  
@@ -625,8 +624,8 @@ I mojej powieści.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Aura" />
+
 Aura też uciekła  
 Też jej nie skończyłam  
 Lecz problemu Kajki nie postawiłam  
@@ -640,8 +639,8 @@ Marianka
   
 #### [powrót](#toc)  
 ---
-
 <a name="Tereny" />
+
 Tereny na siebie załażą  
 Czyj na czyj? \- pytam.  
 Mój na wasz\!  
@@ -652,8 +651,8 @@ w Mariance
   
 #### [powrót](#toc)  
 ---
-
 <a name="Kaja" />
+
 Kaja się ruszyła  
 Już jej nie skończyłam  
 Już jej nie dokończę  
@@ -664,8 +663,8 @@ Marianka
   
 #### [powrót](#toc)  
 ---
-
 <a name="Czyja_twarz" />
+
 Czyja twarz wyjrzała?  
 I po co? Wyszła  
 Nie udałeś mi się  
@@ -675,8 +674,8 @@ Jako cud nad Wisłą
   
 #### [powrót](#toc)  
 ---
-
 <a name="Nie_żyję_dłużej" />
+
 ,,Nie żyję dłużej od Ciebie  
 niż jedenaście lat.  
 Bobym się udusiła.  
@@ -700,8 +699,8 @@ Przecież to nie ja o Tobie, Kaju, Haniu
   
 #### [powrót](#toc)  
 ---
-
 <a name="Młody_człowiek" />
+
 Młody człowiek, który badał  
   
 Wiedział, jak się wysadza  
@@ -724,8 +723,8 @@ Gdy tak leżeli, to, co było zakryte, ...
   
 #### [powrót](#toc)  
 ---
-
 <a name="Po_lekcji_francuskiego" />
+
 Po lekcji francuskiego  
 Sen o lekcji angielskiego…  
 W pokoju Hani  
@@ -744,8 +743,8 @@ pytałam?
   
 #### [powrót](#toc)  
 ---
-
 <a name="Talent" />
+
 ZGŁUPIALI  
 MAĆ AUTOGRESJĘ ĆWICZY  
 CORAZ LEPIEJ  
@@ -757,8 +756,8 @@ I MYŚLI SKUPIONE
   
 #### [powrót](#toc)  
 ---
-
 <a name="Sprzeczności" />
+
 Sprzeczności  
   
 Kiedy przebaczę?  
@@ -777,8 +776,8 @@ Hę?
   
 #### [powrót](#toc)  
 ---
-
 <a name="A_nie" />
+
 A nie  
 A nigdy  
 A żyję.  
@@ -793,8 +792,8 @@ Tchórz, leń, zgryzota.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Hej_Jimmy" />
+
 Hej, Jimmy, słyszysz  
 plusk wieloryba i  
 Atlantyku cudowny śpiew?  
@@ -829,8 +828,8 @@ my znów
   
 #### [powrót](#toc)  
 ---
-
 <a name="Walczyki" />
+
 Walczyki  
   
 Rozmiary? Nie?  
@@ -856,8 +855,8 @@ miłości.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Coś_błyszczy" />
+
 Coś błyszczy i lśni  
 nie pachnie,  
 czai się  
@@ -877,10 +876,10 @@ nie.
 albo chyba nie.  
   
 #### [powrót](#toc)  
+
 ---
-
-
 <a name="Sobie_opowiadaj" />
+
 Sobie opowiadaj  
 nie innym, bo im straszno.  
 Lekkość przestrzeni badaj  
@@ -905,9 +904,10 @@ Straszne\!
 3 11 93 (wisielec na spacerze z psem)  
   
 #### [powrót](#toc)  
----
 
+---
 <a name="Mądry" />
+
 Mądry, Miły, tkliwy  
 Żywy, wolny, dobry  
 Rozsądny, szybki, brzydki  
@@ -920,9 +920,10 @@ rozsądku i tak nie było
 słów brakowało  
   
 #### [powrót](#toc)  
----
 
+---
 <a name="Głęboko_w_siebie" />
+
 Głęboko w siebie,  
 trudno w innych.  
 Trudno głębiej  
@@ -933,9 +934,8 @@ pogłębić.
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Film" />
+
 Film jest wstrząsający.  
 Piękne widoki na Bergen  
 Daleka i obca muzyka  
@@ -956,8 +956,8 @@ odległość.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Wybitny_poeto" />
+
 Wybitny poeto,  
 nie rozumiem Cię.  
 Jeśli jestem tylko jedną z rzeczy wielu  
@@ -974,8 +974,8 @@ Musi? Czyżby nie?
   
 #### [powrót](#toc)  
 ---
-
 <a name="Wy_skubane" />
+
 Wy skubane  
 nie, słodkie  
 albo wyskubane  
@@ -991,8 +991,8 @@ jak moja mać.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Wiersz_na_czterdzieste_piąte" />
+
 
 Wiersz na czterdzieste piąte  
 urodziny Baśki Chałasińskiej  
@@ -1020,8 +1020,6 @@ I po swojemu poskakać\!
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Wiersz_na_tytuł" />
 
 Wiersz na tytuł profesora  
@@ -1050,9 +1048,8 @@ Bez dystansu nie będzie miary
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Chcę_mieć_prawo" />
+
 Chcę mieć prawo do ,,nie".  
 Literatura w “moim” języku, “moja” religia, “moje  
 świątynie" to już ograniczenie.  
@@ -1070,9 +1067,8 @@ mądrość?
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Wiersz_na_imieniny" />
+
 Wiersz na imieniny Baśki  
   
 Tańczę, przyjdziesz, a  
@@ -1095,8 +1091,8 @@ zrozumiemy się.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Miej" />
+
 Miej\! Miejsce bezpieczne  
 zakurzone, ważne i piękne.  
 Urządzone jak chcesz,  
@@ -1108,9 +1104,8 @@ ile śmiejesz się i co masz.
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Gadaj" />
+
 Gadaj, zmywaj, śpij i pierz  
 Ucz się, pływaj, kością trzeszcz  
 Śpiewaj, graj i dbaj o psa  
@@ -1128,9 +1123,8 @@ zgniła.
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Nie_zgnije_nić" />
+
 Nie zgnije nić  
 ,,Maci pysk zamknąć"  
 nie będę gadać.  
@@ -1142,9 +1136,8 @@ a zobaczę.
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Patrzę" />
+
 Patrzę na  
 swoje miny  
 po 2 tabletkach  
@@ -1163,8 +1156,8 @@ nie zmienię.
   
 #### [powrót](#toc)  
 ---
-
 <a name="do_siebie" />
+
 do siebie :przestań narzekać  
 zacznij się cieszyć  
 odległością  
@@ -1176,9 +1169,8 @@ i resztą.
   
 #### [powrót](#toc)  
 ---
-
-
 <a name="Wiersz_Tuwima" />
+
 Wiersz Tuwima o dniu  
 cichym, śnieżnym  
 smutny.  
@@ -1190,8 +1182,8 @@ odpowiedz mi.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Wybacz" />
+
 Wybacz, kupiłam imbryk  
 i miskę do sałaty (dwie)  
 forsy mnóstwo straciłeś  
