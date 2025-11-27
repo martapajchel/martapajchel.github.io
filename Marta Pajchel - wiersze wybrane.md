@@ -39,8 +39,11 @@ Bo to nie prawda co mówią, że nie ma ludzi niezastąpionych. Bo każdy człow
 _Grzegorz Chałasiński_
 
 ---
+
 <a name="toc" />
-### Spis treści:
+
+### Spis treści:  
+  
 [Dzień dobry Panu...](#dzien_dobry)  
 [Tęsknota za kimś jedynym.](#tesknota)  
 [PIOTR WIŚNIEWSKI](#PIOTR_WIŚNIEWSKI)  
@@ -100,6 +103,8 @@ _Grzegorz Chałasiński_
 ---
 
 <a name="dzien_dobry" />
+(#dzien_dobry)
+
 1. Dzień dobry Panu, mówi Marta Pajchel  
 2. Gdzie pan jest?  
 3. Jak się nie żyje?  
@@ -110,11 +115,11 @@ _Grzegorz Chałasiński_
   
 \*wiersz napisany pod wpływem wiadomości o śmierci doktora Disnera
 
-#### [powrót](#toc)  
+#### [powrót](#toc)
 
 ---
-
 <a name="tesknota" />
+
 Tęsknota za kimś jedynym.  
 Napisałeś Piotrek Brak ram \- brak wyjść.  
 Rany bierzesz za ramy.  
@@ -135,10 +140,10 @@ Gdzie szpara w drzwiach i Ogrom Całości
 
 #### [powrót](#toc)  
 ---
-
 <a name="PIOTR_WIŚNIEWSKI" />
-PIOTR WIŚNIEWSKI
 
+PIOTR WIŚNIEWSKI  
+  
 Piotr W odpowiedział NIE \- TAK  
 My w poszukiwaniu odnogi do Ty  
 Najstarszy zostanie pokonany wkrótce  
@@ -166,8 +171,8 @@ On potrafi odpowiedzieć Oni że ona.
   
 #### [powrót](#toc)  
 ---
-
 <a name="Alergiczny_nos" />
+
 Alergiczny nos  
   
 Już patrzę na niego z boku  
