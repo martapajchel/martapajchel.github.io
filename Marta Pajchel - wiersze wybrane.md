@@ -45,6 +45,8 @@ _Grzegorz Chałasiński_
 <a id="toc"></a>
 
 ### Spis treści:  
+
+[Wspomnienie o Marcie - Staszek Pajchel](#Wspomnienie) 
   
 [Dzień dobry Panu...](#dzien_dobry)  
 [Tęsknota za kimś jedynym.](#tesknota)  
@@ -102,7 +104,7 @@ _Grzegorz Chałasiński_
 [Wiersz Tuwima o dniu](#Wiersz_Tuwima)  
 [Wybacz, kupiłam imbryk](#Wybacz)  
 
-[Wspomnienie o Marcie - Staszek Pajchel](#Wspomnienie) 
+
 
 ---
 <a id="dzien_dobry"></a>
