@@ -1190,8 +1190,9 @@ a ja nie.
 (dwudziestolecie ślubu, 94 05\)  
   
 #### [powrót](#toc)  
+---
 
-Marta Pajchel z d. Dziewicka
+### Marta Pajchel z d. Dziewicka ###
 
 ur. 19 lipca 1949 r. w Warszawie, zm. 21 czerwca 1994 r. w Warszawie   
 uczennica IX Liceum im. Klementyny Hoffmanowej w Warszawie w latach 1962 -
@@ -1210,10 +1211,11 @@ Mąż Stanisław od 1974 r. do śmierci Marty
 
 Dzieci Jan i Hanna
 
+#### [powrót](#toc)  
+---
 
-
-Wspomnienie 
-
+### Wspomnienie ###
+ 
 Marta Pajchel z d. Dziewicka jest autorką zbioru wierszy, wydanego po Jej śmierci przez rodzinę i przyjaciół.
 
 Urodziła się 19 lipca 1949 r. w Warszawie. Jej mamą była Maria Dziewicka zwana Mutą, córka wybitnego działacza polskiego w Wilnie w czasie zaborów, sekretarza Rady Miejskiej do 1935 r., prezydenta Wilna z nominacji gen. Żeligowskiego. Ojciec Marty Leon Dziewicki, rodowe nazwisko
