@@ -40,6 +40,7 @@ _Grzegorz Chałasiński_
 
 \*Jadwiga Malina "Wiersze"
 
+---
 
 [Wspomnienie o Marcie - mąż Stanisław Pajchel](#Wspomnienie) 
 
