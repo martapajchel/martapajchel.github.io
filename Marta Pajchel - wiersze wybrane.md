@@ -38,6 +38,8 @@ Bo to nie prawda co mówią, że nie ma ludzi niezastąpionych. Bo każdy człow
 
 _Grzegorz Chałasiński_
 
+\*Jadwiga Malina "Wiersze"
+
 ---
 
 <a id="toc"></a>
