@@ -40,13 +40,14 @@ _Grzegorz Chałasiński_
 
 \*Jadwiga Malina "Wiersze"
 
+
+[Wspomnienie o Marcie - Staszek Pajchel](#Wspomnienie) 
+
 ---
 
 <a id="toc"></a>
 
 ### Spis treści:  
-
-[Wspomnienie o Marcie - Staszek Pajchel](#Wspomnienie) 
   
 [Dzień dobry Panu...](#dzien_dobry)  
 [Tęsknota za kimś jedynym.](#tesknota)  
