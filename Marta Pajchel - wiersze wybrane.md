@@ -1193,18 +1193,18 @@ a ja nie.
 
 Marta Pajchel z d. Dziewicka
 
-ur. 19 lipca 1949 r. w Warszawie, zm. 21 czerwca 1994 r. w Warszawie
+ur. 19 lipca 1949 r. w Warszawie, zm. 21 czerwca 1994 r. w Warszawie   
 uczennica IX Liceum im. Klementyny Hoffmanowej w Warszawie w latach 1962 -
-1966 r.
-matura w roku 1966 r.
+1966 r.  
+matura w roku 1966 r.  
 studia: fizyka na Wydziale Matematyki i Fizyki Uniwersytetu Warszawskiego
-1966 - 1967 r.
+1966 - 1967 r.  
 studia: matematyka na Wydziale Matematyki i Fizyki Uniwersytetu
-Warszawskiego 1967 - 1972 r.
-magister matematyki w zakresie metod numerycznych 03.1973 r.
-praca w Instytucie Maszyn Matematycznych 1972 - 1987 r.
-staż we Francji w firmie IBM X-XII 1973 r.
-praca w ZETO-ZOWAR 1987 - 1990 r.
+Warszawskiego 1967 - 1972 r.  
+magister matematyki w zakresie metod numerycznych 03.1973 r.  
+praca w Instytucie Maszyn Matematycznych 1972 - 1987 r.  
+staż we Francji w firmie IBM X-XII 1973 r.  
+praca w ZETO-ZOWAR 1987 - 1990 r.  
 
 Mąż Stanisław od 1974 r. do śmierci Marty
 
