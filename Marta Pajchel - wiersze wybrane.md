@@ -1233,7 +1233,7 @@ Staszek Pajchel
 ur. 19 lipca 1949 r. w Warszawie, zm. 21 czerwca 1994 r. w Warszawie   
 uczennica IX Liceum im. Klementyny Hoffmanowej w Warszawie w latach 1962 -
 1966 r.  
-matura w roku 1966 r.  
+matura w roku 1966  
 studia: fizyka na Wydziale Matematyki i Fizyki Uniwersytetu Warszawskiego
 1966 - 1967 r.  
 studia: matematyka na Wydziale Matematyki i Fizyki Uniwersytetu
