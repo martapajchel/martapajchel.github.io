@@ -102,6 +102,8 @@ _Grzegorz Chałasiński_
 [Wiersz Tuwima o dniu](#Wiersz_Tuwima)  
 [Wybacz, kupiłam imbryk](#Wybacz)  
 
+[Wspomnienie o Marcie - Staszek Pajchel](#Wspomnienie) 
+
 ---
 <a id="dzien_dobry"></a>
   
@@ -1193,6 +1195,8 @@ a ja nie.
   
 #### [powrót](#toc)  
 ---
+
+<a id="Wspomnienie"></a>
 
 ### Wspomnienie ###
  
