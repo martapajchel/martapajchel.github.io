@@ -34,13 +34,13 @@ Marta już w młodości ujawniła swój talent do pisania wierszy na różne oka
 
 Zapraszam do zapoznania się lub ponownej lektury wierszy Naszej Marty.
 
-Staszek Pajchel
-18 listopada 2025 r.
+_Staszek Pajchel, 18 listopada 2025 r._
 
- 
+
+ #### [Wiersze](#toc)
 ---
 
-### Marta Pajchel z d. Dziewicka ###
+### Marta Pajchel - notka biograficzna ###
 
 ur. 19 lipca 1949 r. w Warszawie, zm. 21 czerwca 1994 r. w Warszawie   
 uczennica IX Liceum im. Klementyny Hoffmanowej w Warszawie w latach 1962 -
@@ -58,19 +58,21 @@ praca w ZETO-ZOWAR 1987 - 1990 r.
 Mąż Stanisław od 1974 r. do śmierci Marty
 
 Dzieci Jan i Hanna
-  
+
+#### [Wiersze](#toc) 
+
 ---
 
-### Przedmowa ###
+### Przedmowa do zbioru wierszy ###
 
 
-nie odchodź ode mnie  
+_nie odchodź ode mnie  
 Jeszcze  
 już niedługo wiosna  
 przecież  
 potem lato  
 i znów zima  
-wytrzymasz*  
+wytrzymasz*_  
 
 
 Wytrzymać było jednak coraz trudniej. Jej organizm poddawał się nowym słabościom, do postępującej „padasi” dołączyła cukrzyca. A Marta nie była człowiekiem walki, lecz człowiekiem troski: „padasia” to było także stworzenie Boże i nie należało jej zbyt brutalnie leczyć...
