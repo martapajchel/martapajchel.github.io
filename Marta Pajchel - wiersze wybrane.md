@@ -164,7 +164,7 @@ _\*Jadwiga Malina "Wiersze"_
   
 21 09 90  
   
-\*wiersz napisany pod wpływem wiadomości o śmierci doktora Disnera
+_\*wiersz napisany pod wpływem wiadomości o śmierci doktora Disnera_
 
 #### [powrót](#toc)
 
