@@ -89,11 +89,8 @@ _Grzegorz Chałasiński_
 
 ---
 
-[Wspomnienie o Marcie - mąż Stanisław Pajchel](#Wspomnienie) 
 
----
-
-<a id="toc"></a>
+### Wiersze wybrane ###
 
 ### Spis treści:  
   
@@ -153,8 +150,6 @@ _Grzegorz Chałasiński_
 [Wiersz Tuwima o dniu](#Wiersz_Tuwima)  
 [Wybacz, kupiłam imbryk](#Wybacz)  
 
-
-### Wiersze wybrane ###
 
 ---
 <a id="dzien_dobry"></a>
