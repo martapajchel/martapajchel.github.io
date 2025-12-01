@@ -90,7 +90,7 @@ _Grzegorz Chałasiński_
 _\*Jadwiga Malina "Wiersze"_
 
 ---
-
+<a id="toc"></a>
 
 ### Wiersze wybrane ###
 
